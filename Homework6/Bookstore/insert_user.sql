@@ -1,0 +1,1 @@
+INSERT INTO user VALUES (1, "mara@email.ro", "mara", "parola123", "client", "mara09");
